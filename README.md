@@ -1,4 +1,4 @@
-PhD student at the University of Helsinki, studying speciation & hybridization in Formica wood ants and interested in gene interaction networks.
+PhD researcher @University of Helsinki. Evolutionary genomics, speciation, hybridization, Formica wood ants.
 
 <!---
 isatok/isatok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
